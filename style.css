@@ -23,6 +23,7 @@ body {
   padding-right: 20px;
 }
 
+/* Header Section */
 header {
   text-align: center;
   padding: 20px;
@@ -30,6 +31,7 @@ header {
   color: hsl(206, 17%, 28%);
 }
 
+/* Card Section */
 .card {
   background-color: hsl(0, 0%, 100%);
   border-radius: 5px;
@@ -97,6 +99,7 @@ button[disabled] {
   float: right;
 }
 
+/* Password Display Section */
 #password {
   -webkit-appearance: none;
   -moz-appearance: none;
